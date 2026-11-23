@@ -3,7 +3,7 @@ The following topics will be covered in this Web Programming Lab course:
   (i)HTML (HyperText Markup Language)
   (ii)CSS (Cascading Style Sheets)
   (iii)JavaScript
-  (iv)PHP (Hypertext Preprocessor)
+  (iv) PHP (Hypertext Preprocessor)
 
 2. GitHub Instructions:
 Our teacher introduced us to GitHub and explained how we will use it throughout the semester.
